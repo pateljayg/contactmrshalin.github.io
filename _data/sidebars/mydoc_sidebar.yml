@@ -2,8 +2,8 @@
 
 entries:
 - title: sidebar
-  product: Jekyll Doc Theme
-  version: 6.0
+  product: QMetry Automation Studio
+  version: 2.1.7
   folders:
 
   - title:
@@ -52,9 +52,12 @@ entries:
       url: /mydoc_release_notes_60.html
       output: web, pdf
 
-    - title: 5.0 Release notes
+    - title: 7.0 Release notes
       url: /mydoc_release_notes_50.html
       output: web, pdf
+		- title: 7.0 Release notes
+		  url: /mydoc_release_notes_50.html
+		  output: web, pdf
 
   - title: Installation
     output: web, pdf
