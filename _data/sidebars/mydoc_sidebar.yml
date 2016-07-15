@@ -2,7 +2,7 @@
 
 entries:
 - title: sidebar
-  product: QMetry Automation Studio
+  product: QMEtry Automation Studio
   version: 2.1.7
   folders:
 
@@ -55,9 +55,6 @@ entries:
     - title: 7.0 Release notes
       url: /mydoc_release_notes_50.html
       output: web, pdf
-		- title: 7.0 Release notes
-		  url: /mydoc_release_notes_50.html
-		  output: web, pdf
 
   - title: Installation
     output: web, pdf
