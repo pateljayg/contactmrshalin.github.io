@@ -1,0 +1,26 @@
+##Scenario
+
+Scenario consist of meta-data and sequence of steps to represents a single test case. Each step can be started with standard BDD keywords [Given | When | Then | And | Having]. Refer list of available keywords.
+
+
+##Structure 
+
+```
+Scenario: <Name of the Scenario>
+ 
+Meta-data: {<meta-key>:<meta-value>[,<meta-key>:<meta-value>]}
+ 
+[Keyword] <first step description with parameters>
+ 
+…
+ 
+ [Keyword] <nth step description>
+ 
+End
+```
+Want to iterate with set of test data from file? You got it with data-driven Scenario. 
+
+##Meta-data 
+*There are predefined meta-key available to use which are list in table below.
+*You can define your custom meta-key to categorize scenarios as per AUT. You can choose whatever names are most appropriate for the information they are trying to convey.
+*The meta-data are collected as part of the scenario parsing and made available for different uses, e.g. Scenario selection, setting priority
