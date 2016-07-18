@@ -1,0 +1,56 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: QMetry Automation Framework
+  version: 2.1.7
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage
+      output: pdf
+      type: frontmatter
+
+  - title: Overview
+    output: web, pdf
+    folderitems:
+
+    - title: Get started
+      url: /index.html
+      output: web, pdf
+      subfolders:
+      - title: Introduction
+        output: web
+        subfolderitems:
+        - title: QAS
+          url: /index1.html
+          output: web, pdf
+        - title: QAF
+          url: /qas.html
+          output: web, pdf
+
+  - title: Developer's Guide
+    output: web, pdf
+    folderitems:
+
+    - title: Get started
+      url: /index.html
+      output: web, pdf
+      subfolders:
+      - title: Introduction
+        output: web
+        subfolderitems:
+        - title: QAS
+          url: /index1.html
+          output: web, pdf
+        - title: QAF
+          url: /qas.html
+          output: web, pdf          
