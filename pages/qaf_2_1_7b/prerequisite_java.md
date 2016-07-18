@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Java
 sidebar: qaf_2_1_7b_sidebar
 permalink: prerequisite_java.html
 folder: qaf_2_1_7b
