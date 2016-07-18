@@ -1,7 +1,7 @@
 ---
 title: Understating Directory Structure
 sidebar: qaf_2_1_7b_sidebar
-permalink: understand_directory_structure.html
+permalink: understand_dirstructure.html
 folder: qaf_2_1_7b
 ---
 
