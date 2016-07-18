@@ -5,8 +5,8 @@ permalink: understand_dirstructure.html
 folder: qaf_2_1_7b
 ---
 
-*The **config** directory contains testng.xml file, and is a place holder for configuration files.
-*The **lib** directory contains required jar files, and is a place holder for other library jars/zips.
+*The config directory contains testng.xml file, and is a place holder for configuration files.
+*The lib directory contains required jar files, and is a place holder for other library jars/zips.
 *The **resources** directory contains all required resources including properties files and data files, and is a place holder for other resources.
 *The **scripts** directory contains ant script to build and run automation. It also contains bat file for windows environment.
 *The **src** directory contains all java files and is a place holder for other java files.
