@@ -1,4 +1,3 @@
-
 ---
 title: Understating Directory Structure
 sidebar: qaf_2_1_7b_sidebar
